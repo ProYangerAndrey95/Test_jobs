@@ -11,9 +11,9 @@ main.pbi
 -I
 C:\Users\talan\OneDrive\Рабочий стол\REPOZIT\Test_jobs
 -I
-C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\arm\inc\c\
--I
 C:\Users\talan\OneDrive\Рабочий стол\REPOZIT\Test_jobs\include\
+-I
+C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\inc\c\
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\CMSIS\Core\Include\
 -I
@@ -25,9 +25,9 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\inc\c
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\inc\cpp
 -I
-C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\arm\inc\c
--I
 C:\Users\talan\OneDrive\Рабочий стол\REPOZIT\Test_jobs\include
+-I
+C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\inc\c
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\CMSIS\Core\Include
 -I

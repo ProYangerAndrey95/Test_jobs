@@ -1,4 +1,7 @@
 main.pbi: \
+  C:\Users\talan\OneDrive\Рабочий\ стол\REPOZIT\Test_jobs\include\lc-switch.h \
+  C:\Users\talan\OneDrive\Рабочий\ стол\REPOZIT\Test_jobs\include\lc.h \
+  C:\Users\talan\OneDrive\Рабочий\ стол\REPOZIT\Test_jobs\include\pt.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\system_LPC17xx.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include\mpu_armv7.h \
   C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\iccarm_builtin.h \

@@ -349,8 +349,8 @@
                 </option>
                 <option>
                     <name>CCIncludePath2</name>
-                    <state>$TOOLKIT_DIR$\arm\inc\c</state>
                     <state>C:\Users\talan\OneDrive\Рабочий стол\REPOZIT\Test_jobs\include</state>
+                    <state>C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\inc\c</state>
                 </option>
                 <option>
                     <name>CCStdIncCheck</name>
